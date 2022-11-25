@@ -20,7 +20,7 @@
 - [Решение задач](#решение-задач)
     - [JavaScript](#javascript)
     - [CSS](#css)
-    - [Codewars](#codewars)
+    - [Codewars](#codewars-solution)
 - [Вывод](#вывод)
 
 ***
@@ -469,7 +469,7 @@ function Script() {
 }
 ```
 
-## [Codewars](https://www.codewars.com) ([Profile Link](https://www.codewars.com/users/ZFGinc))
+## [Codewars Solution](https://www.codewars.com) ([Profile Link](https://www.codewars.com/users/ZFGinc))
 
 ### [The Coupon Code](https://www.codewars.com/kata/the-coupon-code)
 
