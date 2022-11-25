@@ -519,7 +519,7 @@ function checkCoupon(enteredCode, correctCode, currentDate, expirationDate){
 ```
 
 <p align = "center">
-<img src = "img/codewars_screens/1.PNG">
+<img src = "img/1.PNG">
 </p>
 
 ### [Unlucky Days](https://www.codewars.com/kata/unlucky-days)
@@ -536,7 +536,7 @@ function unluckyDays(year){
 ```
 
 <p align = "center">
-<img src = "img/codewars_screens/2.PNG">
+<img src = "img/2.PNG">
 </p>
 
 ### [Angle Between Clock Hands](https://www.codewars.com/kata/angle-between-clock-hands)
@@ -560,7 +560,7 @@ function handAngle (date) {
 ```
 
 <p align = "center">
-<img src = "img/codewars_screens/3.PNG">
+<img src = "img/3.PNG">
 </p>
 
 ### [My Language Skills](https://www.codewars.com/kata/my-language-skills)
@@ -578,7 +578,7 @@ function myLanguages(results) {
 ```
 
 <p align = "center">
-<img src = "img/codewars_screens/4.PNG">
+<img src = "img/4.PNG">
 </p>
 
 ### [Run-length encoding](https://www.codewars.com/kata/run-length-encoding)
@@ -602,7 +602,7 @@ var runLengthEncoding = function(str){
 ```
 
 <p align = "center">
-<img src = "img/codewars_screens/5.PNG">
+<img src = "img/5.PNG">
 </p>
 
 ### [Walk the Object Path](https://www.codewars.com/kata/walk-the-object-path)
@@ -627,7 +627,7 @@ function find(object, path) {
 ```
 
 <p align = "center">
-<img src = "img/codewars_screens/6.PNG">
+<img src = "img/6.PNG">
 </p>
 
 ***
